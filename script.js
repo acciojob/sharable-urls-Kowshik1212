@@ -1,7 +1,7 @@
 // your code here
 const nameEl=document.querySelector("#name");
 const yearEl=document.querySelector("#year");
-const submitEl=document.querySelector(".submit");
+const submitEl=document.querySelector("#submit");
 const header=document.querySelector(".link");
 
 submitEl.addEventListener('click',function(){
