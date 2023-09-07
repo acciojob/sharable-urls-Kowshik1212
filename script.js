@@ -2,7 +2,7 @@
 const nameEl=document.querySelector("#name");
 const yearEl=document.querySelector("#year");
 const submitEl=document.querySelector("#button");
-const header=document.querySelector(".url");
+const header=document.querySelector("#url");
 
 submitEl.addEventListener('click',function(){
 	let name=nameEl.value;
